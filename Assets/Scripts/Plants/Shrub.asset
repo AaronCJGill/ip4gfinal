@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fc74af0844ad24a83471854bfe9691, type: 3}
+  m_Name: Shrub
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 3300000, guid: e2d826462c94d6e40a1f35019c74ad10, type: 3}
+  plantName: Shrub
+  plantclass: 1
+  plantGrowthTime: 3
+  harvestablePercent: 100
+  harvestAmount: 1
+  fullyGrown: 0

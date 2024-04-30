@@ -22,4 +22,5 @@ public struct quest
     //a task to get a certain item
     PlantBase item;
     int itemAmount;
+
 }

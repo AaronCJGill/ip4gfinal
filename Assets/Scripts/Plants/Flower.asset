@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83fc74af0844ad24a83471854bfe9691, type: 3}
   m_Name: Flower
   m_EditorClassIdentifier: 
-  mesh: {fileID: 0}
+  mesh: {fileID: 3300000, guid: ce6fbdc6baa4d3b468d9f9e66afc7869, type: 3}
+  plantName: Red Flower
+  plantGrowthTime: 5
+  harvestablePercent: 100
+  harvestAmount: 1
+  fullyGrown: 0
